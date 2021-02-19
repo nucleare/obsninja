@@ -1,7 +1,7 @@
 ![ILogo by brimace](obsNinja_logo_full.png)
 
 ## What's in this repo?
-This is the client-side software for OBS.ninja.  Feel free to use it as you will; code contributions very welcomed. You may be best suited at getting ahold of me at steve@seguin.email instead of via Github if urgent though.
+This is a fork of the original client-side software for OBS.ninja. It is a preserved version with less features and is originally by Steve Seguin. You may be best suited at getting ahold of him at steve@seguin.email instead of via Github if urgent though.
 
 ## How to Deploy this Repo:
 To use, just download and host on a HTTPS-enabled webserver. You may want to hide the .html extensions within your HTTP server as well, else the generated links will not work. Customize the code as desired. Poke me at steve@seguin.email if you wish to commit your changes to obs.ninja directly. 
